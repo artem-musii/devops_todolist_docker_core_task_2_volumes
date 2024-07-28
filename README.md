@@ -14,4 +14,4 @@ docker run -p 8080:8080 --name todoapp todoapp:2.0.0
 
 
 ## Access application via browser
-Open [localhost:8080]('http://localhost:8080/) in browser
+Open [localhost:8080](http://localhost:8080/) in browser
