@@ -9,8 +9,8 @@ docker run -p 8080:8080 --name todoapp todoapp:2.0.0
 ```
 
 ## Links to docker hub
-[Todoapp image]('https://hub.docker.com/r/artemmusii/todoapp')\
-[MySQL image]('https://hub.docker.com/r/artemmusii/mysql-local')
+[Todoapp image](https://hub.docker.com/r/artemmusii/todoapp)\
+[MySQL image](https://hub.docker.com/r/artemmusii/mysql-local)
 
 
 ## Access application via browser
